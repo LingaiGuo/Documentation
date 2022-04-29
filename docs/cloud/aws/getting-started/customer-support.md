@@ -23,6 +23,12 @@ For more information about OIT Support, visit the website: [https://oit.colorado
 
 **Support Levels and Costs**
 
-For more information about AWS Support Plans and Pricing, please see the following DLT Support documents:
+For more information about DLT Support Plans and Pricing for AWS, please see the following DLT Support documents:
 * [DLT Support Overview](./dlt-standard-support-package-overview.pdf)
 * [DLT Stateside Support](./dlt-confirmed-stateside-support-reference-card-v2_final.pdf)
+
+<embed src="dlt-standard-support-package-overview.pdf" type="application/pdf">
+
+<embed src="./dlt-standard-support-package-overview.pdf" type="application/pdf">
+
+<embed src="/dlt-standard-support-package-overview.pdf" type="application/pdf">
