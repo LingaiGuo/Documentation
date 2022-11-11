@@ -33,7 +33,7 @@ th {
     <td>http://bit.ly/OIT-AWS</td>
   </tr>
   <tr>
-    <td><a href="https://fedauth.colorado.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=https://auth-us.cloudcheckr.com/auth" target="_blank">CloudCheckr</a></td>
+    <td><a href="https://fedauth.colorado.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=https://auth-us.cloudcheckr.com/auth" target="_blank">CloudCheckr SSO</a></td>
     <td>https://fedauth.colorado.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=https://auth-us.cloudcheckr.com/auth</td>
   </tr>
   <tr>
