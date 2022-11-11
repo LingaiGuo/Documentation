@@ -17,7 +17,7 @@ table, th, td {
 
 <table>
   <tr>
-    <th>System</th>
+    <th style="white-space: nowrap">System</th>
     <th>URL</th>
   </tr>
   <tr>
