@@ -28,6 +28,12 @@ table, th, td {
     <td><a href="https://fedauth.colorado.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=https://auth-us.cloudcheckr.com/auth" target="_blank">CloudCheckr</a></td>
     <td>https://fedauth.colorado.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=https://auth-us.cloudcheckr.com/auth</td>
   </tr>
+  <tr>
+    <td><a href="https://readthedocs.org/projects/curc/builds/" target="_blank">Read the Docs - Builds</a></td>
+    <td>https://readthedocs.org/projects/curc/builds/</td>
+  </tr>
+https://readthedocs.org/projects/curc/builds/
+
 </table>
 
 </body>
