@@ -14,6 +14,9 @@ td:nth-child(1) {
 tr:hover {
   background-color: #D6EEEE;
 }
+th {
+  background-color:LightGray;
+}
 </style>
 </head>
 <body>
