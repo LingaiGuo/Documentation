@@ -11,6 +11,9 @@ table, th, td {
 td:nth-child(1) {  
   white-space: nowrap;
 }
+tr:hover {
+  background-color: #D6EEEE;
+}
 </style>
 </head>
 <body>
