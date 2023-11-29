@@ -147,7 +147,7 @@ Use of University of Colorado Research Computing resources, including (but not l
    cloud/aws/index
    cloud/azure/index
    cloud/cumulus
-   cloud/project-management
+   cloud/cumulus/project-management
    cloud/instance-creation
    cloud/slurm-integration
 
