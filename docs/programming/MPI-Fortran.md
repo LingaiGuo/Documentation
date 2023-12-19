@@ -147,7 +147,7 @@ This will produce an executable we can pass to our prefered HPC system (e.g. Alp
 order to execute MPI compiled code, a special command must be used:
 
 ```shell
-mpirun -np 4 ./hello_world_mpi.exe
+mpiexec -np 4 ./hello_world_mpi.exe
 ```
 
 The flag `-np` specifies the number of processor that are to be utilized
